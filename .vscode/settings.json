@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "utils.h": "c",
+        "lcd.h": "c",
+        "systick.h": "c",
+        "example.h": "c",
+        "player.h": "c",
+        "stdbool.h": "c",
+        "tf_card.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
